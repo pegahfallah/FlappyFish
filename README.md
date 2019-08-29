@@ -1,6 +1,5 @@
 # FlappyFish
-
-#About This Project
+About This Project:
 ![](flappyfish.gif)
 
 Flappy Fish is an android app modelled after the game "Flappy Bird"
